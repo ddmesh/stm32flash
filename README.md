@@ -4,7 +4,7 @@ Modified version to support GigaDevice MCU. Original: http://stm32flash.sourcefo
 
 - add option '-G' to switch between STM32 and GD32 MCU
 
-##Usage:
+## Usage:
 
 ### Get GigaDevice Info.
 stm32flash contains two arrays that map the device id to compiled-in information about SRAM/Flash/Bbootloader/Option Bytes.
