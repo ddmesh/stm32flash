@@ -2,7 +2,7 @@
 
 Modified version to support GigaDevice MCU. Original: http://stm32flash.sourceforge.net/
 
-add option '-G' to switch between STM32 and GD32 MCU
+- add option '-G' to switch between STM32 and GD32 MCU
 
 ##Usage:
 
