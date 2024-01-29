@@ -16,7 +16,7 @@ GD32E103TBxx uses same device ID as STM32, but SRAM size, Flash size and page si
 
 ~~~sh
  ./stm32flash -G -b 115200 -S 0x8010000 -w t.txt /dev/ttyUSB0
-stm32flash 0.7
+stm32flash
 
 http://stm32flash.sourceforge.net/
 

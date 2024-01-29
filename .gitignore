@@ -1,2 +1,4 @@
 *.o
+parsers/parsers.a
+stm32flash
 

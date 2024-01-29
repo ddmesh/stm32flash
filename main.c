@@ -45,7 +45,7 @@
 #include <windows.h>
 #endif
 
-#define VERSION "0.7-ddmesh"
+#define VERSION "0.8-ddmesh"
 
 /* device globals */
 stm32_t		*stm		= NULL;
@@ -244,7 +244,7 @@ int main(int argc, char* argv[]) {
 	parser_err_t perr;
 	diag = stdout;
 
-	fprintf(diag, "stm32flash " VERSION "(modified version add GigaDevice Support)\n\n");
+	fprintf(diag, "stm32flash " VERSION " (modified version, adds GigaDevice Support)\n\n");
 	fprintf(diag, "http://stm32flash.sourceforge.net/\n\n");
 
 	if (parse_options(argc, argv) != 0)

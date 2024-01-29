@@ -1,3 +1,6 @@
+0.8 (2024-01-29)
+- add GigaDevices support
+
 0.7 (2022-03-26)
 
 - Fix I2C page-by-page erase (Yann Sionneau)
